@@ -15,5 +15,11 @@ Space키를 다시 눌러 녹화를 종료합니다. 상단 중앙에 빨간 동
 
 <img width="169" alt="photo3" src="https://github.com/ajbuwidnnfjwj/WebCam-Recorder/assets/68640265/81d16b8e-81b6-4f81-aa9c-143eb0866968">
 
+
+
 '+'나 '-'키를 눌러 영상의 대비를 조절할 수 있습니다. '+'를 누르면 증가, '-'를 누르면 감소합니다.
 '['나 ']'키를 눌러 영상의 명암을 조절할 수 있습니다. '['를 누르면 증가,  ']'를 누르면 감소합니다.
+
+https://youtu.be/F1zVVuwhAt0
+
+데모영상
